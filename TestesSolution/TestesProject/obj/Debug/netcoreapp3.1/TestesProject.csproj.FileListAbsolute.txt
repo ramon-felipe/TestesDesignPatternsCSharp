@@ -1,0 +1,13 @@
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\bin\Debug\netcoreapp3.1\TestesProject.exe
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\bin\Debug\netcoreapp3.1\TestesProject.deps.json
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\bin\Debug\netcoreapp3.1\TestesProject.runtimeconfig.json
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\bin\Debug\netcoreapp3.1\TestesProject.runtimeconfig.dev.json
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\bin\Debug\netcoreapp3.1\TestesProject.dll
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\bin\Debug\netcoreapp3.1\TestesProject.pdb
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\obj\Debug\netcoreapp3.1\TestesProject.csprojAssemblyReference.cache
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\obj\Debug\netcoreapp3.1\TestesProject.csproj.CoreCompileInputs.cache
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\obj\Debug\netcoreapp3.1\TestesProject.AssemblyInfoInputs.cache
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\obj\Debug\netcoreapp3.1\TestesProject.AssemblyInfo.cs
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\obj\Debug\netcoreapp3.1\TestesProject.dll
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\obj\Debug\netcoreapp3.1\TestesProject.pdb
+C:\Users\ramon.silva\Documents\Ramon\Desenvolvimentos\C#\Testes\TestesSolution\TestesProject\obj\Debug\netcoreapp3.1\TestesProject.genruntimeconfig.cache
