@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramon.silva\\Documents\\Ramon\\Desenvolvimentos\\C#\\Testes\\TestesSolution\\TestesProject\\TestesProject.csproj": {}
+    "C:\\Users\\ramon\\Documents\\Desenvolvimentos\\C#\\Testes\\Teste_Design_Patterns\\TestesDesignPatternsCSharp\\TestesSolution\\TestesProject\\TestesProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramon.silva\\Documents\\Ramon\\Desenvolvimentos\\C#\\Testes\\TestesSolution\\TestesProject\\TestesProject.csproj": {
+    "C:\\Users\\ramon\\Documents\\Desenvolvimentos\\C#\\Testes\\Teste_Design_Patterns\\TestesDesignPatternsCSharp\\TestesSolution\\TestesProject\\TestesProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramon.silva\\Documents\\Ramon\\Desenvolvimentos\\C#\\Testes\\TestesSolution\\TestesProject\\TestesProject.csproj",
+        "projectUniqueName": "C:\\Users\\ramon\\Documents\\Desenvolvimentos\\C#\\Testes\\Teste_Design_Patterns\\TestesDesignPatternsCSharp\\TestesSolution\\TestesProject\\TestesProject.csproj",
         "projectName": "TestesProject",
-        "projectPath": "C:\\Users\\ramon.silva\\Documents\\Ramon\\Desenvolvimentos\\C#\\Testes\\TestesSolution\\TestesProject\\TestesProject.csproj",
-        "packagesPath": "C:\\Users\\ramon.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramon.silva\\Documents\\Ramon\\Desenvolvimentos\\C#\\Testes\\TestesSolution\\TestesProject\\obj\\",
+        "projectPath": "C:\\Users\\ramon\\Documents\\Desenvolvimentos\\C#\\Testes\\Teste_Design_Patterns\\TestesDesignPatternsCSharp\\TestesSolution\\TestesProject\\TestesProject.csproj",
+        "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramon\\Documents\\Desenvolvimentos\\C#\\Testes\\Teste_Design_Patterns\\TestesDesignPatternsCSharp\\TestesSolution\\TestesProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ramon.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

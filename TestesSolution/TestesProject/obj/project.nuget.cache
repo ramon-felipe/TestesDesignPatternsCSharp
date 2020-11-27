@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PCEGkGVB+QN1wNJsUsxDIDsq3jhAenmsjcqhXvMNeeWJz2947EXM14+f40OytrwVsE0+nSg1qk3bz+PlbVFpzg==",
+  "dgSpecHash": "YQJg34pC8pw6dToSf1UjC3uPALt3O1lHhjcN2KokPVg+UQYUYsh0aqp7lbIuQW7qLo2X3SPcRiNMkkW9MD+eMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramon.silva\\Documents\\Ramon\\Desenvolvimentos\\C#\\Testes\\TestesSolution\\TestesProject\\TestesProject.csproj",
+  "projectFilePath": "C:\\Users\\ramon\\Documents\\Desenvolvimentos\\C#\\Testes\\Teste_Design_Patterns\\TestesDesignPatternsCSharp\\TestesSolution\\TestesProject\\TestesProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

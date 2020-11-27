@@ -29,14 +29,13 @@ namespace TestesProject
 
         private static void FactoryMethodTest()
         {
-            double n1, n2;
             Console.WriteLine("Informe o 1º numero:");
-            var result = double.TryParse(Console.ReadLine(), out n1);
+            var result = double.TryParse(Console.ReadLine(), out double n1);
             if (!result)
                 Console.WriteLine("Apenas numero");
 
             Console.WriteLine("Informe o 2º numero:");
-            result = double.TryParse(Console.ReadLine(), out n2);
+            result = double.TryParse(Console.ReadLine(), out double n2);
             if (!result)
                 Console.WriteLine("Apenas numero");
 
