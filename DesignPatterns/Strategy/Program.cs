@@ -1,6 +1,7 @@
-﻿using System;
+﻿using Strategy.Impostos;
+using System;
 
-namespace TesteDesignPatterns_Strategy
+namespace Strategy
 {
     class Program
     {

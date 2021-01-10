@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{59D67792-495B-4E1F-8209-38E7D1B6E6EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{71A59875-DDB3-469C-9723-0E3EF433201A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{4D937362-978E-43A6-96FE-F4732E6F8CDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{59D67792-495B-4E1F-8209-38E7D1B6E6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59D67792-495B-4E1F-8209-38E7D1B6E6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59D67792-495B-4E1F-8209-38E7D1B6E6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A59875-DDB3-469C-9723-0E3EF433201A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A59875-DDB3-469C-9723-0E3EF433201A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A59875-DDB3-469C-9723-0E3EF433201A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A59875-DDB3-469C-9723-0E3EF433201A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D937362-978E-43A6-96FE-F4732E6F8CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D937362-978E-43A6-96FE-F4732E6F8CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D937362-978E-43A6-96FE-F4732E6F8CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D937362-978E-43A6-96FE-F4732E6F8CDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

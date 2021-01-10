@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TesteDesignPatterns_Strategy
+namespace Strategy
 {
     public interface IImposto
     {

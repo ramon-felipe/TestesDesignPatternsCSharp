@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Strategy
+namespace Decorator
 {
     public class Orcamento
     {
